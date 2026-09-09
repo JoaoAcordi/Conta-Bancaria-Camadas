@@ -1,0 +1,6 @@
+@ContaBancaria4_HostAddress = http://localhost:5088
+
+GET {{ContaBancaria4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
